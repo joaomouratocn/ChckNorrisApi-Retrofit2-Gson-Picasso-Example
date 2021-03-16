@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChuckNorrisApiRetrofitAndPicasso</string>
+    <string name="strImageJoke">Image Joke</string>
+    <string name="strRefreshButton">Refresh Button</string>
+</resources>
